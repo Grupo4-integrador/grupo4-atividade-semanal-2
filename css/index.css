@@ -66,3 +66,32 @@ a, a:visited {
   width: 544.97px;
   margin-top: 15vh;
 }
+
+.services-page {
+  background-color: hsla(11, 43%, 34%, 1);
+  font-family: 'Poppins', sans-serif;
+}
+
+.services-title {
+  display: flex;
+  justify-content: center;
+}
+
+.services-title h1 {
+  color: hsla(0, 0%, 100%, 1);
+  font-weight: 900;
+  font-size: 64px;
+}
+
+.services-image {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+.services-button {
+  display: flex;
+  justify-content: center;
+}
