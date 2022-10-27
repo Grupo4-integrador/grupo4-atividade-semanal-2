@@ -9,12 +9,16 @@ a, a:visited {
   text-decoration-line: none;
   color: hsla(9, 44%, 28%, 1);
 }
+section{
+  min-height: 83vh;
+}
 
 .home-page {
   background-color: hsla(41, 94%, 93%, 1);
   background-image: url('../img/background.png');
   display: flex;
   justify-content: center;
+  width: 100%;
 }
 
 .introduction {
@@ -119,6 +123,14 @@ a, a:visited {
 .button-2:hover{
   background: #f4c331;
 }
+.third-page{
+  background-color: hsla(41, 94%, 93%, 1);
+  background-image: url('../img/background.png');
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
 .testymonials {
   position: absolute;
   width: 505px;
