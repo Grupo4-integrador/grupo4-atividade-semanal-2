@@ -12,7 +12,7 @@ a, a:visited {
 
 .home-page {
   background-color: hsla(41, 94%, 93%, 1);
-  background-image: url('../img/background.png');
+  background-image: url('background.png');
   display: flex;
   justify-content: center;
 }
