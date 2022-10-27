@@ -85,7 +85,9 @@ section {
 
   color: #663128;
 }
-
+.button:hover{
+  background: #f4c331;
+}
 .about-us {
   position: absolute;
   width: 82px;
@@ -145,6 +147,9 @@ section {
   align-items: center;
   text-align: center;
   color: #663128;
+}
+.button-2:hover{
+  background: #f4c331;
 }
 .testymonials {
   position: absolute;
@@ -263,6 +268,9 @@ section {
   text-align: center;
   color: #663128;
 }
+.button-3:hover{
+  background: #f4c331;
+}
 .contact-container {
   position: absolute;
   width: 1903px;
@@ -326,6 +334,11 @@ section {
   border-radius: 61px;
   border-style: none;
 }
+input{
+  font-family: "Poppins";
+  padding:5px;  
+  font-size: 15;
+}
 .button-enviar {
   box-sizing: border-box;
   width: 168px;
@@ -344,6 +357,10 @@ section {
   color: #7c4032;
   cursor: pointer;
   background: white;
+}
+.button-enviar:hover{
+  /*border-color: #4d271f;*/
+  box-shadow: 0px 5px 5px #33333393;
 }
 .email {
   position: absolute;
